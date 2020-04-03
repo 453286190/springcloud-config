@@ -1,0 +1,2 @@
+# springcloud-config
+模拟Springcloud项目中config的配置管理
